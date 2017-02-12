@@ -3,3 +3,5 @@ alessandra.port.pe.hu
 aplicativo que fornece informações sobre doação se sangue e medula
 O objetivo do aplicativo é incentivar a facilitar o processo de doação de sangue por parte do doador , explicando a ele os procedimentos para a doação e o encaminhando para o agendamento no hemocentro mais próximo .
 
+ ![Material Spacegray](https://github.com/AlessandraFaria/App-HEMOM/blob/master/hemom%20logo.png)
+
